@@ -4,8 +4,9 @@ A lightweight offline Qur'an reading app designed for the Riwayah of Khalaf ‘a
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/17b6d661-efd4-4491-9a57-bc6543b83eee" width="120"/>
+  <img src="https://github.com/user-attachments/assets/ae3df804-e86b-43cc-9aad-fe8c63c08cab" width="120"/>
 </p>
+
 
 
 <p align="center">
