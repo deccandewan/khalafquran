@@ -2,6 +2,10 @@
 A lightweight offline Qur'an reading app designed for the Riwayah of Khalaf ‘an Hamzah.
 
 
+
+
+# Disclaimer
+
 The included PDF mushaf is not owned by me.
 
 Source:
