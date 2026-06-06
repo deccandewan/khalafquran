@@ -17,24 +17,31 @@
 
 ---
 
+## Installation
+
+1. Go to the [Releases](https://github.com/deccandewan/khalafquran/releases/tag/2.0) page
+2. Download the latest `.apk` file
+3. On your Android device, open the downloaded file
+4. If prompted, allow installation from unknown sources
+5. Install and open Khalaf Quran
+
+---
+
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f12eb3f-375a-439e-947a-17a6abee873c" width="30%" alt="Home"/>
-  <img src="https://github.com/user-attachments/assets/9912f763-eba7-42c9-99b3-42491d8d0e9d" width="30%" alt="Juz Navigation"/>
-  <img src="https://github.com/user-attachments/assets/55f85785-210b-4f6c-ba63-2b1d3ad20e6b" width="30%" alt="Render Quality"/>
+  <img src="https://github.com/user-attachments/assets/7f12eb3f-375a-439e-947a-17a6abee873c" width="18%" alt="Home"/>
+  <img src="https://github.com/user-attachments/assets/9912f763-eba7-42c9-99b3-42491d8d0e9d" width="18%" alt="Juz Navigation"/>
+  <img src="https://github.com/user-attachments/assets/55f85785-210b-4f6c-ba63-2b1d3ad20e6b" width="18%" alt="Render Quality"/>
+  <img src="https://github.com/user-attachments/assets/e0a4222b-6ec8-4d6b-8f6b-b57f9fab8e9c" width="18%" alt="Audio Player"/>
+  <img src="https://github.com/user-attachments/assets/10c25a3a-73a2-475c-b270-4799f13b66fc" width="18%" alt="Bookmarks"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0a4222b-6ec8-4d6b-8f6b-b57f9fab8e9c" width="30%" alt="Audio Player"/>
-  <img src="https://github.com/user-attachments/assets/10c25a3a-73a2-475c-b270-4799f13b66fc" width="30%" alt="Bookmarks"/>
-  <img src="https://github.com/user-attachments/assets/c26ec13c-5851-4103-9b2a-73ba076658ff" width="30%" alt="Reading Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a2ad9a07-f94c-408f-a3da-d70e4409eaba" width="30%" alt="Settings"/>
-  <img src="https://github.com/user-attachments/assets/ae5f5867-3cc0-44b2-87d2-fa1744a7eeb3" width="30%" alt="Settings"/>
-  <img src="https://github.com/user-attachments/assets/40bdbe2a-122e-464d-baec-cb123d4ded09" width="30%" alt="Surah Download"/>
+  <img src="https://github.com/user-attachments/assets/c26ec13c-5851-4103-9b2a-73ba076658ff" width="18%" alt="Reading Stats"/>
+  <img src="https://github.com/user-attachments/assets/a2ad9a07-f94c-408f-a3da-d70e4409eaba" width="18%" alt="Settings"/>
+  <img src="https://github.com/user-attachments/assets/ae5f5867-3cc0-44b2-87d2-fa1744a7eeb3" width="18%" alt="Settings"/>
+  <img src="https://github.com/user-attachments/assets/40bdbe2a-122e-464d-baec-cb123d4ded09" width="18%" alt="Surah Download"/>
 </p>
 
 ---
