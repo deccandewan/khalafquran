@@ -16,13 +16,19 @@
 
 ---
 
+## About Khalaf Quran
+
+**Khalaf Quran** is a dedicated Android application built with Flutter, designed specifically for reading and listening to the Holy Qur'an according to the **Riwayah of Khalaf ‘an Hamzah** (Qira'at of Hamzah). Unlike standard Hafs applications, this app provides optimized digital presentation tailored to the specific orthography, stop marks (waqf), and recitation nuances unique to the Khalaf 'an Hamzah transmission. Engineered as an offline-first mobile app, it ensures complete accessibility to text and audio resources without requiring an active internet connection.
+
+---
+
 ## Installation
 
-1. Go to the [Releases](https://github.com/deccandewan/khalafquran/releases/tag/2.0) page
-2. Download the latest `.apk` file
-3. On your Android device, open the downloaded file
-4. If prompted, allow installation from unknown sources
-5. Install and open Khalaf Quran
+1. Go to the [Latest Releases](https://github.com/deccandewan/khalafquran/releases/latest) page on GitHub.
+2. Download the latest `.apk` file compiled for Android.
+3. On your Android device, open the downloaded package file.
+4. If prompted, allow installation from unknown sources in your device security settings.
+5. Proceed with the installation and open **Khalaf Quran**.
 
 ---
 
@@ -46,20 +52,28 @@
 
 ## Features
 
-- &nbsp;High-quality PDF mushaf rendered natively on-device
-- &nbsp;Navigate by Surah or Juz with a single tap
-- &nbsp;Bookmarks with custom labels
-- &nbsp;Audio recitation by Abd Al-Rashid Sufi with playback controls
-- &nbsp;Reading streaks, daily goals, and session statistics
-- &nbsp;Daily reminder notifications with per-notification time control
-- &nbsp;English, Arabic, and Urdu interface
-- &nbsp;Fully offline — no internet required after setup
+- **Native PDF Rendering:** High-quality PDF mushaf optimized for the Khalaf 'an Hamzah script, rendered directly on your mobile device.
+- **Seamless Navigation:** Instantly browse and jump to specific Surahs or Juz sections with intuitive UI controls.
+- **Custom Bookmarks:** Save your progress with personalized labels for quick reference during study.
+- **Offline Audio Recitation:** Full audio playback functionality featuring the recitation of Qari Sheikh Abd Al-Rashid Sufi.
+- **Analytics & Tracking:** Monitor your reading habits with built-in reading streaks, daily goals, and comprehensive session statistics.
+- **Custom Reminders:** Configure daily notifications with advanced per-notification time scheduling.
+- **Localization:** Complete, multi-language interface supporting English, Arabic, and Urdu.
+- **100% Offline Capability:** Operates entirely locally with zero data usage or tracking after the initial asset installation.
+
+---
+
+## Technical Overview & License
+
+- **Framework:** Flutter (Dart)
+- **Target OS:** Android (Minimum SDK 21+)
+- **License/Source Code:** All Rights Reserved. This repository functions as a public portal for distribution, documentation, and user transparency; however, the source code is proprietary and closed-source. Commercial distribution, modifications, or unlicensed hosting of the application binaries are strictly prohibited.
 
 ---
 
 ## Disclaimer
 
-The included PDF mushaf is not owned by me.  
-Source: [islamweb.net](https://www.islamweb.net/)
+The included PDF mushaf asset utilized within this application is not owned by the developer.  
+Source and copyright attribution: [islamweb.net](https://www.islamweb.net/)
 
-This is a personal Qur'an reader app built for the Riwayah of Khalaf 'an Hamzah. If the copyright holder requests removal, the PDF will be removed immediately.
+This software is an independent, non-commercial personal Qur'an reader app created for the preservation and study of the Riwayah of Khalaf 'an Hamzah. If the legal copyright holder requests removal of the underlying media assets, the PDF text files will be removed immediately from public distribution.
