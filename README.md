@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Built%20with-Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Version-2.0.0-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Offline-100%25-4CAF50?style=flat-square"/>
 </p>
 
 ---
@@ -30,18 +29,17 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f12eb3f-375a-439e-947a-17a6abee873c" width="18%" alt="Home"/>
-  <img src="https://github.com/user-attachments/assets/9912f763-eba7-42c9-99b3-42491d8d0e9d" width="18%" alt="Juz Navigation"/>
-  <img src="https://github.com/user-attachments/assets/55f85785-210b-4f6c-ba63-2b1d3ad20e6b" width="18%" alt="Render Quality"/>
-  <img src="https://github.com/user-attachments/assets/e0a4222b-6ec8-4d6b-8f6b-b57f9fab8e9c" width="18%" alt="Audio Player"/>
-  <img src="https://github.com/user-attachments/assets/10c25a3a-73a2-475c-b270-4799f13b66fc" width="18%" alt="Bookmarks"/>
+  <img src="https://github.com/user-attachments/assets/adce9aa5-c76d-47b0-a3ed-a28279e8e30d" width="18%" alt="Intro"/>
+  <img src="https://github.com/user-attachments/assets/430a69e5-5f7d-490a-9647-9b718680c8ef" width="18%" alt="Home Page"/>
+  <img src="https://github.com/user-attachments/assets/86441344-5c87-4c3e-bac4-0bcb41b63078" width="18%" alt="Reading View"/>
+  <img src="https://github.com/user-attachments/assets/c5b67949-f801-4e4e-bf95-b1a8a2ff0bba" width="18%" alt="Audio Player"/>
+  <img src="https://github.com/user-attachments/assets/239776dd-3a5d-4cbe-ad08-32df69809262" width="18%" alt="Bookmarks"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c26ec13c-5851-4103-9b2a-73ba076658ff" width="18%" alt="Reading Stats"/>
-  <img src="https://github.com/user-attachments/assets/a2ad9a07-f94c-408f-a3da-d70e4409eaba" width="18%" alt="Settings"/>
-  <img src="https://github.com/user-attachments/assets/ae5f5867-3cc0-44b2-87d2-fa1744a7eeb3" width="18%" alt="Settings"/>
-  <img src="https://github.com/user-attachments/assets/40bdbe2a-122e-464d-baec-cb123d4ded09" width="18%" alt="Surah Download"/>
+  <img src="https://github.com/user-attachments/assets/a36225d3-837d-4be3-aa53-aa90e2e969a1" width="18%" alt="Reading Stats"/>
+  <img src="https://github.com/user-attachments/assets/16ad28ce-6056-4990-94e4-07ca38383728" width="18%" alt="General Settings"/>
+  <img src="https://github.com/user-attachments/assets/30447917-4ca3-4f05-8d58-617dd9a95cd3" width="18%" alt="Audio Settings"/>
 </p>
 
 ---
