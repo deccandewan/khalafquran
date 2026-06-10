@@ -28,7 +28,8 @@
 2. Download the latest `.apk` file compiled for Android.
 3. On your Android device, open the downloaded package file.
 4. If prompted, allow installation from unknown sources in your device security settings.
-5. Proceed with the installation and open **Khalaf Quran**.
+5. If Google Play Protect asks to scan the app, you may do so, It should come out clean.
+6. Proceed with the installation and open **Khalaf Quran**.
 
 ---
 
@@ -67,6 +68,7 @@
 
 - **Framework:** Flutter (Dart)
 - **Target OS:** Android (Minimum SDK 21+)
+- **Permissions**: The app utilizes a small range of permissions for the full features, like storage permission to change the audio download location, and notification permission to send reminders, it does not use any location services, you have to manually choose your location in the app settings for the prayer timings to work.
 
 ---
 
