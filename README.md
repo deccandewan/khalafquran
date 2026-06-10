@@ -63,11 +63,10 @@
 
 ---
 
-## Technical Overview & License
+## Technical Overview
 
 - **Framework:** Flutter (Dart)
 - **Target OS:** Android (Minimum SDK 21+)
-- **License/Source Code:** All Rights Reserved. This repository functions as a public portal for distribution, documentation, and user transparency; however, the source code is proprietary and closed-source. Commercial distribution, modifications, or unlicensed hosting of the application binaries are strictly prohibited.
 
 ---
 
