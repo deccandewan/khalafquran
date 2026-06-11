@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Built%20with-Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Version-2.5.0-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Version-2.8.0-4CAF50?style=flat-square"/>
 </p>
 
 ---
