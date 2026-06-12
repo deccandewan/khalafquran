@@ -68,7 +68,7 @@
 
 - **Framework:** Flutter (Dart)
 - **Target OS:** Android (Minimum SDK 21+)
-- **Permissions**: The app utilizes a small range of permissions for the full features, like storage permission to change the audio download location, and notification permission to send reminders, it does not use any location services, you have to manually choose your location in the app settings for the prayer timings to work.
+- **Permissions**: The app utilizes a small range of permissions for the full features, like storage permission to change the audio download location, notification permission to send reminders, and install app permission to auto update, it does not use any location services, you have to manually choose your location in the app settings for the prayer timings to work.
 
 ---
 
