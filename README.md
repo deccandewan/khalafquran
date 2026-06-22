@@ -18,20 +18,24 @@
 
 ## About Khalaf Quran
 
-**Khalaf Quran** is a dedicated Android application built with Flutter, designed specifically for reading and listening to the Holy Qur'an according to the **Riwayah of Khalaf ‘an Hamzah** (Qira'at of Hamzah). Unlike standard Hafs applications, this app provides optimized digital presentation tailored to the specific orthography, stop marks (waqf), and recitation nuances unique to the Khalaf 'an Hamzah transmission. Engineered as an offline-first mobile app, it ensures complete accessibility to text and audio resources without requiring an active internet connection.
+**Khalaf Quran** is a dedicated Android application built with Flutter, designed specifically for reading and listening to the Noble Qur'an according to the **Riwayah of Khalaf ‘an Hamzah** (Qira'at of Hamzah). Unlike standard Hafs applications, this app provides optimized digital presentation tailored to the specific orthography, stop marks (waqf), and recitation nuances unique to the Khalaf 'an Hamzah transmission. Engineered as an offline-first mobile app, it ensures complete accessibility to text and audio resources without requiring an active internet connection.
+
+## Features
+
+- **Native PDF Rendering:** High-quality PDF mushaf, Khalaf 'an Hamzah script, rendered directly on your mobile device.
+- **Seamless Navigation:** Instantly browse and jump to specific Surahs or Juz sections with intuitive UI controls.
+- **Custom Bookmarks:** Save your progress with personalized labels for quick reference during study.
+- **Offline Audio Recitation:** Full audio playback functionality featuring the recitation of Qari Shaykh Abd Al-Rashid Sufi.
+- **Analytics & Tracking:** Monitor your reading habits with built-in reading streaks, daily goals, and comprehensive session statistics.
+- **Custom Reminders:** Configure daily notifications with advanced per-notification time scheduling.
+- **Localization:** Complete, multi-language interface supporting English, Arabic, and Urdu.
+- **100% Offline Capability:** Operates entirely locally with zero data usage or tracking after the initial asset installation.
+- **Dark Reader:** Turned on by default for easier reading experience, can be turned off in settings
+- **Markdown:** Full markdown tools {Pen, Highlighter, and Eraser}
 
 ---
 
-## Installation
 
-1. Go to the [Latest Releases](https://github.com/deccandewan/khalafquran/releases/latest) page on GitHub.
-2. Download the latest `.apk` file compiled for Android.
-3. On your Android device, open the downloaded package file.
-4. If prompted, allow installation from unknown sources in your device security settings.
-5. If Google Play Protect asks to scan the app, you may do so, It should come out clean.
-6. Proceed with the installation and open **Khalaf Quran**.
-
----
 
 ## Screenshots
 
@@ -51,16 +55,18 @@
 
 ---
 
-## Features
 
-- **Native PDF Rendering:** High-quality PDF mushaf optimized for the Khalaf 'an Hamzah script, rendered directly on your mobile device.
-- **Seamless Navigation:** Instantly browse and jump to specific Surahs or Juz sections with intuitive UI controls.
-- **Custom Bookmarks:** Save your progress with personalized labels for quick reference during study.
-- **Offline Audio Recitation:** Full audio playback functionality featuring the recitation of Qari Sheikh Abd Al-Rashid Sufi.
-- **Analytics & Tracking:** Monitor your reading habits with built-in reading streaks, daily goals, and comprehensive session statistics.
-- **Custom Reminders:** Configure daily notifications with advanced per-notification time scheduling.
-- **Localization:** Complete, multi-language interface supporting English, Arabic, and Urdu.
-- **100% Offline Capability:** Operates entirely locally with zero data usage or tracking after the initial asset installation.
+
+---
+
+## Installation
+
+1. Go to the [Latest Releases](https://github.com/deccandewan/khalafquran/releases/latest) page on GitHub.
+2. Download the latest `.apk` file compiled for Android.
+3. On your Android device, open the downloaded package file.
+4. If prompted, allow installation from unknown sources in your device security settings.
+5. If Google Play Protect asks to scan the app, you may do so, It should come out clean.
+6. Proceed with the installation and open **Khalaf Quran**.
 
 ---
 
@@ -68,7 +74,7 @@
 
 - **Framework:** Flutter (Dart)
 - **Target OS:** Android (Minimum SDK 21+)
-- **Permissions**: The app utilizes a small range of permissions for the full features, like storage permission to change the audio download location, notification permission to send reminders, and install app permission to auto update, it does not use any location services, you have to manually choose your location in the app settings for the prayer timings to work.
+- **Permissions**: The app utilizes a small range of permissions for the full features, notification permission to send reminders, and install app permission to auto update, it does not use any location services, you have to manually choose your location in the app settings for the prayer timings to work.
 
 ---
 
