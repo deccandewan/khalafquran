@@ -18,7 +18,7 @@
 
 ## About Khalaf Quran
 
-**Khalaf Quran** is a dedicated Android application built with Flutter, designed specifically for reading and listening to the Noble Qur'an according to the **Riwayah of Khalaf ‘an Hamzah** (Qira'at of Hamzah). Unlike standard Hafs applications, this app provides optimized digital presentation tailored to the specific orthography, stop marks (waqf), and recitation nuances unique to the Khalaf 'an Hamzah transmission. Engineered as an offline-first mobile app, it ensures complete accessibility to text and audio resources without requiring an active internet connection.
+**Khalaf Quran** is a dedicated application built with Flutter, designed specifically for reading and listening to the Noble Qur'an according to the **Riwayah of Khalaf ‘an Hamzah** (Qira'at of Hamzah). Unlike standard Hafs applications, this app provides optimized digital presentation tailored to the specific orthography, stop marks (waqf), and recitation nuances unique to the Khalaf 'an Hamzah transmission. Engineered as an offline-first mobile app, it ensures complete accessibility to text and audio resources without requiring an active internet connection.
 
 ## Features
 
