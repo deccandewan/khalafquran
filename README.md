@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Built%20with-Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white"/>
@@ -100,6 +101,17 @@
 3. Run the downloaded installer and follow the on-screen setup instructions.
 4. If Windows SmartScreen displays a warning, select **More info** and then **Run anyway**.
 5. Once installation completes, launch **Khalaf Quran** from the Start menu.
+
+### iOS (AltStore)
+1. Install AltStore(server) (https://altstore.io/) on your Computer and Connect your iPhone/iPad and Install AltStore on your mobile device.
+2. Go to the [Latest Releases](https://github.com/deccandewan/khalafquran/releases/latest) page on GitHub.
+3. Download the latest `.ipa` file (e.g. `KhalafQuran.ipa`).
+4. Open AltStore on your mobile device, go to **My Apps**, tap **+**, and select the downloaded `.ipa`.
+5. Enter your Apple ID credentials when prompted (used only to sign the app locally, the details are sent to Apple, for verification).
+6. Once installed, trust the developer certificate: **Settings → General → VPN & Device Management**, then select the profile and tap **Trust**.
+7. Launch **Khalaf Quran** from your home screen.
+
+> **Note:** Apps installed via AltStore are signed with a free Apple ID and expire every 7 days. Open AltStore periodically (or enable AltStore's background refresh) to re-sign the app automatically.
 
 ---
 
