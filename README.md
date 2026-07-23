@@ -118,7 +118,7 @@
 ## Technical Overview
 
 - **Framework:** Flutter (Dart)
-- **Target Platforms:** Android (Minimum SDK 21+), Linux (AppImage, Flatpak), Windows
+- **Target Platforms:** Android (Minimum SDK 21+), iOS (Minimum ver. 17.0), Linux (AppImage, Flatpak), Windows
 - **Permissions**: The app utilizes a small range of permissions for the full features, notification permission to send reminders, and install app permission to auto update, it does not use any location services, you have to manually choose your location in the app settings for the prayer timings to work.
 
 ---
